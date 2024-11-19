@@ -1,0 +1,10 @@
+C:\Users\grishma\source\repos\AgeCalculator.cs\bin\Debug\AgeCalculator.cs.exe.config
+C:\Users\grishma\source\repos\AgeCalculator.cs\bin\Debug\AgeCalculator.cs.exe
+C:\Users\grishma\source\repos\AgeCalculator.cs\bin\Debug\AgeCalculator.cs.pdb
+C:\Users\grishma\source\repos\AgeCalculator.cs\obj\Debug\AgeCalculator.cs.csproj.AssemblyReference.cache
+C:\Users\grishma\source\repos\AgeCalculator.cs\obj\Debug\AgeCalculator.cs.Form1.resources
+C:\Users\grishma\source\repos\AgeCalculator.cs\obj\Debug\AgeCalculator.cs.Properties.Resources.resources
+C:\Users\grishma\source\repos\AgeCalculator.cs\obj\Debug\AgeCalculator.cs.csproj.GenerateResource.cache
+C:\Users\grishma\source\repos\AgeCalculator.cs\obj\Debug\AgeCalculator.cs.csproj.CoreCompileInputs.cache
+C:\Users\grishma\source\repos\AgeCalculator.cs\obj\Debug\AgeCalculator.cs.exe
+C:\Users\grishma\source\repos\AgeCalculator.cs\obj\Debug\AgeCalculator.cs.pdb
